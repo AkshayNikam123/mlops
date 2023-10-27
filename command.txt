@@ -1,0 +1,6 @@
+active env
+
+conda activate <path of env>
+
+for git bash terminal
+source activate ./env

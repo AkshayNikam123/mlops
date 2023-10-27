@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/akshay/mlflow/mlruns/0/e2ec034961fe4ba2b78910f295a5c345/artifacts
+end_time: 1698413019641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2ec034961fe4ba2b78910f295a5c345
+run_name: bemused-elk-988
+run_uuid: e2ec034961fe4ba2b78910f295a5c345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698412992422
+status: 3
+tags: []
+user_id: akshay
